@@ -213,3 +213,8 @@ While this application focuses on data collection, the collected data is designe
 4. Calculate estimated costs based on all factors
 
 This structured data collection ensures the ML model has high-quality, consistent inputs for accurate predictions. 
+
+
+
+![Screenshot_15-5-2025_214458_localhost](https://github.com/user-attachments/assets/767d25b2-b8a8-4a4f-8b96-10c07d8928ae)
+![Screenshot_15-5-2025_214519_localhost](https://github.com/user-attachments/assets/c1134e70-8529-4767-9e44-e5712d0c4217)
